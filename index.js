@@ -337,8 +337,8 @@ document.addEventListener('DOMContentLoaded', function() {
             relatedCategory: 'women',
             price: 10.00,
             images: [
-                'https://images.unsplash.com/photo-1583744946564-b52d01e2da64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80',
-                'https://images.unsplash.com/photo-1583744946564-b52d01e2da64?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80'
+                'images/pexels-nietjuhart-934070.jpg',
+                'images/pexels-nietjuhart-934070.jpg'
             ],
             description: 'High-waisted yoga pants with stretch fabric for maximum comfort during workouts.',
             sizes: ['S', 'M', 'L', 'XL'],
